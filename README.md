@@ -52,7 +52,7 @@ Free web tools (no install): [invoice generator](https://kleogeos.github.io/free
 
 Track the hours in the first place: [freelance-time-cli](https://github.com/kleogeos/freelance-time-cli) · Generate the actual invoice from the output: [freelance-invoice-cli](https://github.com/kleogeos/freelance-invoice-cli) · Work out what the rate should be: [freelance-rate-cli](https://github.com/kleogeos/freelance-rate-cli) · Chasing an overdue invoice? [freelance-late-fee-cli](https://github.com/kleogeos/freelance-late-fee-cli)
 
-Need the paperwork beyond invoices — proposals, contracts, late-payment emails, client scripts? [Freelancer Starter Kit ($15, crypto or Telegram Stars, no KYC)](https://kleogeos.github.io/freelancer-tools/kit.html?src=cli-timesheet2invoice)
+Need the paperwork beyond invoices — proposals, contracts, late-payment emails, client scripts? [Freelancer Starter Kit ($15, Telegram Stars or crypto, no KYC)](https://kleogeos.github.io/freelancer-tools/kit.html?src=cli-timesheet2invoice)
 
 Free and will stay free. If it saved you time: [tip with crypto](https://kleogeos.github.io/freelancer-tools/donate.html).
 
